@@ -1,0 +1,14 @@
+C:\Users\ftmbt\source\repos\KutuphaneOtomasyon\KutuphaneOtomasyon\bin\Debug\net8.0\KutuphaneOtomasyon.exe
+C:\Users\ftmbt\source\repos\KutuphaneOtomasyon\KutuphaneOtomasyon\bin\Debug\net8.0\KutuphaneOtomasyon.deps.json
+C:\Users\ftmbt\source\repos\KutuphaneOtomasyon\KutuphaneOtomasyon\bin\Debug\net8.0\KutuphaneOtomasyon.runtimeconfig.json
+C:\Users\ftmbt\source\repos\KutuphaneOtomasyon\KutuphaneOtomasyon\bin\Debug\net8.0\KutuphaneOtomasyon.dll
+C:\Users\ftmbt\source\repos\KutuphaneOtomasyon\KutuphaneOtomasyon\bin\Debug\net8.0\KutuphaneOtomasyon.pdb
+C:\Users\ftmbt\source\repos\KutuphaneOtomasyon\KutuphaneOtomasyon\obj\Debug\net8.0\KutuphaneOtomasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftmbt\source\repos\KutuphaneOtomasyon\KutuphaneOtomasyon\obj\Debug\net8.0\KutuphaneOtomasyon.AssemblyInfoInputs.cache
+C:\Users\ftmbt\source\repos\KutuphaneOtomasyon\KutuphaneOtomasyon\obj\Debug\net8.0\KutuphaneOtomasyon.AssemblyInfo.cs
+C:\Users\ftmbt\source\repos\KutuphaneOtomasyon\KutuphaneOtomasyon\obj\Debug\net8.0\KutuphaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\ftmbt\source\repos\KutuphaneOtomasyon\KutuphaneOtomasyon\obj\Debug\net8.0\KutuphaneOtomasyon.dll
+C:\Users\ftmbt\source\repos\KutuphaneOtomasyon\KutuphaneOtomasyon\obj\Debug\net8.0\refint\KutuphaneOtomasyon.dll
+C:\Users\ftmbt\source\repos\KutuphaneOtomasyon\KutuphaneOtomasyon\obj\Debug\net8.0\KutuphaneOtomasyon.pdb
+C:\Users\ftmbt\source\repos\KutuphaneOtomasyon\KutuphaneOtomasyon\obj\Debug\net8.0\KutuphaneOtomasyon.genruntimeconfig.cache
+C:\Users\ftmbt\source\repos\KutuphaneOtomasyon\KutuphaneOtomasyon\obj\Debug\net8.0\ref\KutuphaneOtomasyon.dll
